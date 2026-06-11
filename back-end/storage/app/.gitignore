@@ -1,0 +1,30 @@
+# Laravel default ignores
+/vendor/
+/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.backup
+.env.production
+
+# IDE and system files
+/.idea/
+/.vscode/
+/phpunit.result.cache
+Homestead.yaml
+Homestead.json
+.DS_Store
+Thumbs.db
+auth.json
+
+# Laravel-specific cache or temporary files
+/public/storage
+/public/hot
+storage/*.key
+/storage/pail
+/public/build
+
+# Ignore the Firebase service account key
+/storage/app/firebase/service-account.json

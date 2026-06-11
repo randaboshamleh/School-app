@@ -1,0 +1,18 @@
+﻿{
+  "Grades": "الدرجات",
+   "Weekly Schedule" : "الجدول الأسبوعي" ,
+   "Advertisements": "الإعلانات",
+   "Notifications": "الإشعارات",
+   "Personal File": "الملف الشخصي",
+   "Financial File": "الملف المالي",
+   "Exams Schedule": "جدول الامتحانات",
+   "Transport Service": "خدمة النقل",
+   "Contact With Us": "تواصل معنا",
+   "Logout": "تسجيل الخروج",
+  "Login": "تسجيل الدخول",
+  "Password": "كلمة المرور",
+  "Welcome": "مرحبًا بك ",
+  "school_name" : "بوابة المدرسة" ,
+  "Change_language": "تغيير اللغة",
+   "student_id_not_found": "❌ لم يتم العثور على رقم الطالب"
+}

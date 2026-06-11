@@ -1,0 +1,18 @@
+﻿{
+  "Grades": "Grades",
+  "Weekly Schedule" : "Weekly Schedule" ,
+   "Advertisements": "Advertisements",
+   "Notifications": "Notifications",
+   "Personal File": "Personal File",
+   "Financial File": "Financial File",
+   "Exams Schedule": "Exams Schedule",
+   "Transport Service": "Transport Service",
+   "Contact With Us": "Contact With Us",
+   "Logout": "Logout",
+  "Login": "Login",
+  "Password": "Password",
+  "Welcome": "Welcome",
+  "school_name" : "School Portal",
+  "Change_language": "Change Language",
+  "student_id_not_found": "❌ Student ID not found"
+}

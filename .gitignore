@@ -1,0 +1,88 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+google-services*.json
+GoogleService-Info.plist
+service-account*.json
+back-end/storage/app/firebase/*.json
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+temp/
+
+# Laravel backend
+back-end/vendor/
+back-end/node_modules/
+back-end/storage/*.key
+back-end/storage/framework/cache/*
+back-end/storage/framework/sessions/*
+back-end/storage/framework/views/*
+back-end/storage/logs/*
+back-end/bootstrap/cache/*.php
+back-end/.phpunit.result.cache
+back-end/database/*.sqlite
+back-end/_ide_helper*.php
+back-end/.phpstorm.meta.php
+back-end/public/storage
+back-end/school_db_backup.sql
+back-end/*.sql
+
+# Laravel frontend build artifacts
+back-end/public/build/
+back-end/public/hot
+
+# Flutter frontend
+froont-end/.dart_tool/
+froont-end/.flutter-plugins
+froont-end/.flutter-plugins-dependencies
+froont-end/build/
+froont-end/coverage/
+froont-end/flutter_*.log
+froont-end/Get
+froont-end/.metadata
+
+# Platform-generated user files
+froont-end/android/.gradle/
+froont-end/android/build/
+froont-end/android/app/build/
+froont-end/android/.kotlin/
+froont-end/android/app/.cxx/
+froont-end/android/local.properties
+froont-end/android/key.properties
+froont-end/ios/Pods/
+froont-end/ios/Flutter/Flutter.podspec
+froont-end/ios/Flutter/Generated.xcconfig
+froont-end/macos/Flutter/GeneratedPluginRegistrant.swift
+froont-end/linux/flutter/generated_plugin_registrant.*
+froont-end/windows/flutter/generated_plugin_registrant.*
+
+# Nested Flutter supervisor dashboard generated files
+froont-end/supervisor_dashboard/.dart_tool/
+froont-end/supervisor_dashboard/.idea/
+froont-end/supervisor_dashboard/build/
+froont-end/supervisor_dashboard/.flutter-plugins
+froont-end/supervisor_dashboard/.flutter-plugins-dependencies
+froont-end/supervisor_dashboard/android/.gradle/
+froont-end/supervisor_dashboard/android/build/
+froont-end/supervisor_dashboard/android/app/build/
+froont-end/supervisor_dashboard/android/.kotlin/
+froont-end/supervisor_dashboard/android/app/.cxx/
+froont-end/supervisor_dashboard/android/local.properties
+froont-end/supervisor_dashboard/ios/Flutter/Generated.xcconfig
+froont-end/supervisor_dashboard/ios/Flutter/flutter_export_environment.sh
+froont-end/supervisor_dashboard/macos/Flutter/ephemeral/
